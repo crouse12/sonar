@@ -1,10 +1,10 @@
 # pxt-sonar [![Build Status](https://travis-ci.org/Microsoft/pxt-sonar.svg?branch=master)](https://travis-ci.org/Microsoft/pxt-sonar)
 
-A MakeCode package to use sonar sensors (ping) such as the HC-SR04.
+MakeCode的超音波HC-SR04積木
 
 ## Usage
 
-This package contains a ``ping`` block that can return the distance to an obstacle detected by the sonar.
+這個積木主要是會回傳感應值  修改自pxt-sonar
 
 ```sig
 sonar.ping(DigitalPin.P1, DigitalPin.P2, PingUnit.Inches);
