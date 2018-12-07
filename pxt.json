@@ -1,7 +1,7 @@
 {
     "name": "sonar",
     "version": "0.1.6",
-    "description": "A MakeCode package to use sonar sensors",
+    "description": "MakeCode的超音波積木",
     "license": "MIT",
     "dependencies": {
         "core": "*"
