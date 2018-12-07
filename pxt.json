@@ -1,6 +1,6 @@
 {
     "name": "sonar",
-    "version": "0.1.0",
+    "version": "0.2.2",
     "description": "MakeCode的超音波積木",
     "license": "MIT",
     "dependencies": {
