@@ -1,6 +1,6 @@
 {
     "name": "sonar",
-    "version": "0.0.6",
+    "version": "0.1.6",
     "description": "A MakeCode package to use sonar sensors",
     "license": "MIT",
     "dependencies": {
@@ -10,9 +10,6 @@
         "README.md",
         "main.ts",
         "_locales/zh/sonar-strings.json"
-    ],
-    "testFiles": [
-        "test.ts"
     ],
     "public": true
 }
