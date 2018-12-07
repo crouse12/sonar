@@ -1,0 +1,4 @@
+{
+    "sonar|block": "超音波",
+    "sonar.ping|block": "超音波插在 trig %trig|echo %echo|unit %unit"
+}
